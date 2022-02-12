@@ -238,7 +238,7 @@ li::marker{
   height: 12.5rem;
   background: url('../img/patterned-bg.png') rgb(60, 159, 173);
   position: relative;
-  bottom: 180px !important;
+  bottom: 208px !important;
 }
 
 .banner > div:first-child {
