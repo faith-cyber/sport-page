@@ -193,7 +193,8 @@ col-xl-6 col-lg-6 col-md-6{
   background: url(/img/running-bg.png) no-repeat;
   background-size: 100%;
   overflow: hidden;
-  
+  position: relative;
+    bottom: 50px;
   padding-top: 200px;
 }
 .inner-container{
