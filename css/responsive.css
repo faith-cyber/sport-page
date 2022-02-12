@@ -26,6 +26,7 @@
     position: relative;
     bottom: 100px;
     width: 80%;
+    padding-top: 0px;
     flex-direction: row;
   }
   .about2_section{
